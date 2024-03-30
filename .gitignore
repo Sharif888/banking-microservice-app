@@ -1,0 +1,22 @@
+# Ignore IntelliJ IDEA metadata
+.idea/
+
+# Ignore Eclipse metadata
+.metadata/
+.classpath
+.project
+.log
+.settings/
+
+# Ignore Maven build directory
+target/
+
+# Ignore Logs
+logs/
+
+# Ignore Gradle build directory
+build/
+
+# Ignore Spring Boot configuration files
+application.properties
+application.yml
